@@ -23,20 +23,20 @@
 
 ---
 
-## 📫 Onde me encontrar
+## 🌐 Onde me encontrar
 
 <p>
-  <a href="mailto:eduardopereira.dev1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:eduardopereira.dev1@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/xxwyse" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/xxwyse">
+    <img src="https://img.shields.io/badge/DISCORD-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/wyniesie" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eduardopsilva6/">
+    <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardopsilva6/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/wyniesie">
+    <img src="https://img.shields.io/badge/INSTAGRAM-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
