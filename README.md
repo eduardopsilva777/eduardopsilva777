@@ -27,16 +27,16 @@
 
 <p>
   <a href="mailto:eduardopereira.dev1@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/xxwyse">
-    <img src="https://img.shields.io/badge/DISCORD-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/eduardopsilva6/">
-    <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/wyniesie">
-    <img src="https://img.shields.io/badge/INSTAGRAM-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
