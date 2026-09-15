@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Engenharia de Software**  
+🎓 Estudante de **Ciencias da Computação**  
 💻 Técnico em **Desenvolvimento de Sistemas**  
 📍 Campinas/SP — Brasil  
 📚 Atualmente aprendendo: `Python`, `C#`, `Java` e `JavaScript`  
